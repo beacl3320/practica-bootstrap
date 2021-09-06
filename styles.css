@@ -1,0 +1,10 @@
+.slider{
+    background: url('assets/imagen1.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.mundo{
+    -webkit-text-stroke: 2px black;
+}
