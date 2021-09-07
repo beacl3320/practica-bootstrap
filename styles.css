@@ -8,3 +8,8 @@
 .mundo{
     -webkit-text-stroke: 2px black;
 }
+
+.img {
+    width: 540px;
+    height: 260px;
+}
